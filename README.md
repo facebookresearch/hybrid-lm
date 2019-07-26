@@ -18,4 +18,4 @@ The following command line can be used to reproduce experiments on the MWC datas
 ```
 
 ## License
-The code is licensed under CC-BY-NC, as found in the LICENSE.txt file.
+The code is licensed under CC-BY-NC, as found in the LICENSE file.
